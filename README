@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1325
+
+This script offers a nice buffer list that does not get in your way. Just hit a key to open it, it will "slide" in from the left, select the buffer you want to go to, and *swoosh* the list is gone again.
+
+See http://devel.burningsoda.com/vim/bufferlist_ani.gif for a short demo.
